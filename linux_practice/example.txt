@@ -1,0 +1,1 @@
+Hello from Linux! This is a practice file. Second line of text.Third line with some numbers 123.
